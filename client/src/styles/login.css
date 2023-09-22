@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .fullform {
+    background-color: #fff;
+    padding: 70px 80px 80px 60px;
+    border-radius: 10px;
+  }
+  .form-group {
+    background-color: #fff;
+    font-weight: bold;
+  }
+  
+  .registerbtn {
+    background-color: rgb(75, 162, 75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .loginbtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(117, 117, 238);
+    text-decoration: none;
+  }
+  .btn {
+    color: #fff;
+  }
+  
